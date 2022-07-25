@@ -37,7 +37,7 @@ export default {
 
 <style>
 .block {
-    width: 400px;
+    width: 500px;
     border-radius: 20px;
     background: #0faf87;
     color: white;
